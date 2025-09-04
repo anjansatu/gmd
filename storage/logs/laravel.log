@@ -588,3 +588,25 @@
 #8 /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/server.php(21): require_once('...')
 #9 {main}
 "} 
+[2025-09-04 18:16:22] local.ERROR: Unclosed '{' on line 40 {"exception":"[object] (ParseError(code: 0): Unclosed '{' on line 40 at /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/app/Console/Commands/SqlUpdate.php:79)
+[stacktrace]
+#0 /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/vendor/composer/ClassLoader.php(427): {closure:Composer\\Autoload\\ClassLoader::initializeIncludeClosure():575}()
+#1 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#2 /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(346): is_subclass_of()
+#3 /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/app/Console/Kernel.php(63): Illuminate\\Foundation\\Console\\Kernel->load()
+#4 /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(453): App\\Console\\Kernel->commands()
+#5 /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(199): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2025-09-04 18:16:22] local.ERROR: Unclosed '{' on line 40 {"exception":"[object] (ParseError(code: 0): Unclosed '{' on line 40 at /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/app/Console/Commands/SqlUpdate.php:79)
+[stacktrace]
+#0 /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/vendor/composer/ClassLoader.php(427): {closure:Composer\\Autoload\\ClassLoader::initializeIncludeClosure():575}()
+#1 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#2 /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(346): is_subclass_of()
+#3 /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/app/Console/Kernel.php(63): Illuminate\\Foundation\\Console\\Kernel->load()
+#4 /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(453): App\\Console\\Kernel->commands()
+#5 /home/roy/C L I/Prophecy_v5.1.0_Nulled/Prophecy v5.1.0 Nulled/project/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(199): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
